@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bubmblebee
 - (</div>)
 - < span id="Turkey">Turkey</span>
-- 💞️ I’m looking to collaborate on ...
+- <link href="./style.css"type="text/css" rel="stylesheet" />
 - 📫 How to reach me ...
 
 <!---
