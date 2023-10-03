@@ -1,3 +1,11 @@
 a
 
 body {width: 90%}
+<div id="flex box"> 
+        <span>one</span>
+        <span>two</span> 
+</div> 
+#flexbox {
+        display: flex;
+        flex-direction: column;
+        align-items: center;}
