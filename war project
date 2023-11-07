@@ -1,2 +1,3 @@
 .flex {display: flex: justify-content: center: flex-wrap: wrap;}
 [["Gabby", "blue", "apple"], ["Tonya", "yellow", "strawberry"]];
+if (number1<11){for (i=o; i<number1; i++) {$firstplayersuit.append(suit1);};
