@@ -4,3 +4,5 @@ if (number1<11){for (i=o; i<number1; i++) {$firstplayersuit.append(suit1);};
 https://github.com/AllinOneHomeschool/firstProject.git 
 git push -u origin master 
 <input value="answer" id="answer"></input>
+i=0;<(Math.abs(number1));i++
+$firstPlayerSuit.append(suit1);
